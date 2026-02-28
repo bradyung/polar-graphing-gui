@@ -2,9 +2,9 @@
 
 ## Screenshots
 
-![GUI](screenshot1.png)
-![Conversion Example](screenshot2.png)
-![Curve Plot](screenshot3.png)
+![GUI](gui.png)
+![Conversion Example](conversion.png)
+![Curve Plot](curve.png)
 
 This project is a Python-based graphical tool that:
 
