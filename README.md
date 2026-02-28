@@ -13,6 +13,13 @@ This project is a Python-based graphical tool that:
 - Plots polar curves such as r = 1 + cos(theta)
 - Displays the resulting graph using matplotlib
 
+## Features
+
+- Simple graphical interface
+- Accurate coordinate conversion
+- Polar curve visualization
+- Error handling for invalid inputs
+
 ## Example Tests
 
 Cartesian to Polar:
