@@ -1,5 +1,11 @@
 # Polar Graphing GUI
 
+## Screenshots
+
+![GUI](screenshot1.png)
+![Conversion Example](screenshot2.png)
+![Curve Plot](screenshot3.png)
+
 This project is a Python-based graphical tool that:
 
 - Converts Cartesian coordinates (x, y) to Polar (r, θ)
