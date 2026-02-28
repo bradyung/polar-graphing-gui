@@ -2,7 +2,7 @@
 
 ## Screenshots
 
-![GUI](Screenshot 2026-02-27 202854.png)
+![GUI](screenshot1.png)
 ![Conversion Example](screenshot2.png)
 ![Curve Plot](screenshot3.png)
 
